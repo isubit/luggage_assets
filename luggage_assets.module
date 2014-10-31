@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Luggage Assets feature.
+ */
+
+include_once 'luggage_assets.features.inc';
